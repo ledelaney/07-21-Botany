@@ -2,6 +2,15 @@
 
 ## Abstract
 
+### The Phylogenetic Distribution and Frequency of Self-Incompatibility in the Legumes
+
+Self-incompatibility (SI) -- a suite of genetic mechanisms that prevent self-fertilization -- are thought to have profound effects on the evolution of flowering plants. And yet, surprisingly little is known regarding the phylogenetic distribution and frequency of SI in some of the largest angiosperm families, including the legumes (Fabaceae). The ecological and economic significance of the family has motivated an enormous but scattered output of literature concerning their breeding systems and reproductive biology. 
+
+We compiled a database using literature from 372 published reports with a special emphasis on breeding systems and  related life history traits. Our collection includes 1320 entries containing data for 1167 unique species across 184 genera -- 5.4 percent of the family. We find slightly more than 26 percent of tested Fabaceae species are SI, and that SI is primarily concentrated among the oldest lineages in the subfamily Caesalpinioideae, and in some genera of the subfamily Papilionoidae, notably _Trifolium_. We find no evidence of correlation between breeding system and ploidy, but evidence of significant correlation between breeding system and perenniality. In addition, we tested seven species from the subfamily Caesalpinioideae for the presence of candidate genes--S-RNases--in pistils and evaluated long-standing questions about the mechanism(s) responsible for SI in Fabaceae in light of this new data.
+
+Our collection reveals greater complexity of SI expression in the family than previously recognized. With our current data we find no evidence of RNase-based SI -- or any single SI system -- operating in Fabaceae. We highlight once more the important need for empirical work evaluating SI and outline where future efforts may be focused.
+
+
 ## Slides
 
 ### Images
