@@ -43,5 +43,3 @@ meta() %>%
 ```
 
 class: right, middle, title-slide
-
-## This is a test
