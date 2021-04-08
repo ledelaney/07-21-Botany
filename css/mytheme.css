@@ -358,11 +358,98 @@ line-height: normal;
 
 /* slide ten */
 
+.bg_locust {
+  position: relative;
+  z-index: 1;
+  background-color: #F5F4F2;
+}
+
+.bg_locust::before {    
+      content: "";
+      background-image: url('images/bg/locust.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F5F4F2;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
 /* slide eleven */
+
+.bg_peanut {
+  position: relative;
+  z-index: 1;
+  background-color: #F3E9DE;
+}
+
+.bg_peanut::before {    
+      content: "";
+      background-image: url('images/bg/peanut.jpg');
+      background-size: 560px;
+      background-repeat: no-repeat;
+      background-color: #F3E9DE;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 700px;
+      opacity: 1;
+      z-index: -1;
+}
 
 /* slide twelve */
 
+
+.bg_trifoliumprat {
+  position: relative;
+  z-index: 1;
+  background-color: #F5F4F3;
+}
+
+.bg_trifoliumprat::before {    
+      content: "";
+      background-image: url('images/bg/trifoliumprat.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F5F4F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
 /* conclusion slide */
+
+.bg_carob {
+  position: relative;
+  z-index: 1;
+  background-color: #EDECEC;
+}
+
+.bg_carob::before {    
+      content: "";
+      background-image: url('images/bg/carob.jpg');
+      background-size: 600px;
+      background-repeat: no-repeat;
+      background-color: #EDECEC;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
 
 /*-- LINK STYLING --*/
 

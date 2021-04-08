@@ -29,6 +29,10 @@ Slide set-up with the `xaringan` (built on `remark.js`)and `metathis` R packages
 + [Mucuna pruriens (Dolichos pruriens) illustration from Medical Botany (1836) by John Stephenson and James Morss Churchill](https://www.rawpixel.com/image/326724/free-illustration-image-flower-watercolor-flower-lyon)
 + [Sweet acacia (Mimosa farnesiana) from Traité des Arbres et Arbustes que l’on cultive en France en pleine terre (1801–1819) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/568018/sweet-acacia-branch)
 + [Butterfly Pea (_Clitoria mariana_) (1934) by Mary Vaux Walcott](https://www.rawpixel.com/image/2617326/free-illustration-image-butterfly-flower-butterfly-pea-flower)
++ [Locust on a leaf illustration from Churui Gafu (1910) by Morimoto Toko](https://www.rawpixel.com/image/560519/japanese-flower-print)
++ [_Arachis hypogaea_](https://www.flickr.com/photos/biodivlibrary/34657192156/in/photolist-2kLgnTf-2khPD7A-2khQ8gN-h9mNJZ-UNxaMN-UnXTp4-Sf719u-2eoetHk-d7te3d-h9mQ9n-h9jEeM-Uo7fDx-2dhaiWw-UnV8CR-h9kXkm-ab9o48-danZUP-QBVn5c-2khKU2v-dwq2WD-dwvyM3-abcc4U-dao4YG-dao3pk-2cZpL3z-abckFU-axe56s-h9bVcm-h9nwx8-h9bYem-UjHmru-UmfVUT-2cZpEit-VmMTYs-VmZfDo-axe4WQ-dao4xw-VkgFHb-2cZpK7X-dao19K-VwiVd1-dH5HvT-h9d9TY-h9bG95-dao3vn-2dhakgW-2eoeuf2-dH5u6Z-dHaU1j-danZpT/)
++ [Red clover, _Trifolium pratense_ (1596–1610) by Anselmus Boëtius de Boodt](https://www.rawpixel.com/image/561974/red-clover-vintage-style)
++ [Carob flower (_Ceratonia siliqua_) from Pomona Italiana (1817 - 1839) by Giorgio Gallesio ](https://www.rawpixel.com/image/321643/free-illustration-image-giorgio-gallesio-ceratonia-italian)
 
 
 ### in the wings
