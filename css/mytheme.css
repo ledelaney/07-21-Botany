@@ -117,8 +117,6 @@ line-height: normal;
 }
 
 
-
-
 /*-- BACKGROUNDS AND SPECIFIC SLIDE STYLING --*/
 
 /* title slide */
@@ -144,6 +142,56 @@ line-height: normal;
 }
 
 /* slide one */
+
+.bg_wisteria {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_wisteria::before {    
+      content: "";
+      background-image: url('images/bg/wisteria.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F4F1E4;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+.bg_wisteria h2 {
+  position: relative;
+  top: 30px;
+
+}
+
+/* slide two */
+
+
+.bg_trifolium {
+  position: relative;
+  z-index: 1;
+  background-color: #EDD9A8;
+}
+
+.bg_trifolium::before {    
+      content: "";
+      background-image: url('images/bg/trifolium.jpg');
+      background-size: 500px;
+      background-repeat: no-repeat;
+      background-color: #EDD9A8;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 720px;
+      opacity: 1;
+      z-index: -1;
+}
 
 
 /*-- LINK STYLING --*/
