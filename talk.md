@@ -36,7 +36,7 @@
 ## slide four
 
 + so here is my rudimentary cartoon of the basic male and female reproductive organs of the flower
-+ and since most plants are hermaphrodites, pollen can technically come from two places: sel or not self
++ and since most plants are hermaphrodites, pollen can technically come from two places: self or not self
 + and many plants limit self-fertilization by morphological or temporal means, so that the anthers can't reach the stigma or the stigma is not receptive when the anthers dehisce (?)
 + but many plants possess invisible genetic mechanisms that allow them to recognize and reject their own pollen, allowing them to control the genotype of pollen that is ultimately able to fertilize and ovule
 + this adaptation is known under the broad umbrella term of "homomorphic self-incompatibility" or SI and it's found in an estimate half or more of angiosperm species
@@ -66,31 +66,47 @@
 + despite these long-standing questions about the mechanism or mechanisms responsible for SI in Fabaceae, data on breeding systems in the group has not been collected or summarized for forty years, since arroyo in 1981
 + in the intervening years, we've learned more about SI in general and RSI specifically, including evidence that SI is known to correlate with some other traits like longevity or growth habit
 + and also that the RSI mechanism generally breaks down when there is a polyploidization event -- meaning that there is an association between polyploidy and self-compatibility
-+ RSI has also been historically challenging to diagnose, but recent advances
-
-+ so to examine the current state of knowledge on the phylogenetic distribution and frequency of SI in fabaceae -- along with the overall weight of evidence that RSI may be operating in Fabaceae -- we collected data from 366 published empircal papers, theses, monographs, conservation reports and flora and field guides with a special emphasis on breeding systems and potentially correlated traits
-+ we also collected stylar tissue of 
++ RSI has also been historically challenging to diagnose, but recent work takes advantage of distinctive molecular markers present in the stylar tissue of species that possess this system
++ so to examine the current state of knowledge on the phylogenetic distribution and frequency of SI in fabaceae -- along with the overall weight of evidence that RSI may be operating in Fabaceae -- we collected data from 366 published works, including empircal papers, theses, monographs, conservation reports and flora and field guides with a special emphasis on breeding systems and potentially correlated traits
++ we also tested stylar tissue of several previously untested caesalpinoid species for the presence of RSI molecular markers
 
 ## slide eight
 
-+ DATA COVERAGE AND GENERAL DISTRIBUTION
++ we ended up with published work from 1886 through 2018, with data on breeding systems for 1167 species across 184 genera
++ our data accounts for roughly 6 percent of the family, with no data for more than 400 genera
++ this is a genus-level phylogeny of fabaceae, with circles scaled to represent the relative size of each genus -- you can see _Astragalus_ right here...
++ and these colors indicate the percent of each genus sampled for breeding systems***
++ so you can see that there is still quite a bit of missing data
 
 ## slide nine
 
-+ INDEX OF SELF-INCOMPATBILITY
++ the best way of actually establishing whether or not a species is SI or SC is through manual pollination experiments that allow for the calculation of the index of self-incompatibility or ISI
++ ISI is 1- the ratio of selfed/outcrossed fruits produced, where 1 means a plant is full SI and zero fully SC
++ in previous families, the expression of SI has been shown to be bimodal, with the majority of species being fully SI or SC
++ this fits in line with theoretical work that suggests that fully SC or SI are alternative stable states ***
++ this bimodal pattern has been shown in families that possess different SI mechanisms or where the SI mechanism is as yet unknown, including Asteraceae, Solanaceae, Cactaceae and Orchidaceae
++ not surprisingly, we also found the same bimodal expression of SI in Fabaceae
 
 ## slide ten 
 
-+ TRAIT CORRELATIONS
++ we performed phylogenetically corrected generalized linear models to assess possible corelations between SI and stem composition (herbaceous or woody), longevity (annual or perennial) and ploidy (diploid or polyploid)
++ 
 
 ## slide eleven
 
-+ EVIDENCE OF MECHANISMS
++ in addition to examining seven caesalpinoid species for the presence of RSI molecular makers, we also collected data to help assess what molecular mechanisms may responsible for RSI in the group
++ historically, determining whether a species possesses RSI involves quite a lot of effort
++ since the pollen tube is known to break down in the style, site of pollen tube inhibition is one indicator of SI mechanism
++ another are detailed crossing experiments allowing for the determinination of the genetics of SI
++ 
 
 ## slide twelve
 
-+ WORK THAT SHOULD BE DONE
++ missing a lot of data, interpret with caution
++ looking for RNases in the wrong places, but still haven't found any
++ polyploidy does not seem to breakdown SI but need more data
 
 ## conclusion
 
-+ SUM THAT SHIT UP
++ no evidence of RSI or any single mechanism
++ make data publicly available
