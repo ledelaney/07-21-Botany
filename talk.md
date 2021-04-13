@@ -85,24 +85,27 @@
 + in previous families, the expression of SI has been shown to be bimodal, with the majority of species being fully SI or SC
 + this fits in line with theoretical work that suggests that fully SC or SI are alternative stable states ***
 + this bimodal pattern has been shown in families that possess different SI mechanisms or where the SI mechanism is as yet unknown, including Asteraceae, Solanaceae, Cactaceae and Orchidaceae
-+ not surprisingly, we also found the same bimodal expression of SI in Fabaceae
++ not surprisingly, we also found the same bimodal expression of SI in Fabaceae with data for 308 species across 95 genera
 
 ## slide ten 
-
-+ we performed phylogenetically corrected generalized linear models to assess possible corelations between SI and stem composition (herbaceous or woody), longevity (annual or perennial) and ploidy (diploid or polyploid)
-+ 
-
-## slide eleven
 
 + in addition to examining seven caesalpinoid species for the presence of RSI molecular makers, we also collected data to help assess what molecular mechanisms may responsible for RSI in the group
 + historically, determining whether a species possesses RSI involves quite a lot of effort
 + since the pollen tube is known to break down in the style, site of pollen tube inhibition is one indicator of SI mechanism
 + another are detailed crossing experiments allowing for the determinination of the genetics of SI
-+ 
++ lastly, identification of an S-locus through sequencing efforts
++ site of pollen tube inhibition is available for just over 30 species, showing a wide variety of arrests including stigma, style, and various post-fertitilization mechanisms
++ only seven studies have investigated the genetics of SI in the group: 
+
+## slide eleven
+
++ we performed phylogenetically corrected generalized linear models to assess possible corelations between SI and three other binary traits: stem composition (herbaceous or woody), longevity (annual or perennial) and ploidy (diploid or polyploid)
++ this analysis should be interpreted with caution: given that there is no clear shared SI mechanism, we don't know whether or not SI constitutes a single trait or more than one trait
++ we also lack sufficient data
 
 ## slide twelve
 
-+ missing a lot of data, interpret with caution
++ given this lack of data, we can't make any definitive claims here
 + looking for RNases in the wrong places, but still haven't found any
 + polyploidy does not seem to breakdown SI but need more data
 
