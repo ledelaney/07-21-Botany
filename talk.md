@@ -25,9 +25,9 @@
 
 ## slide three
 
-+ The amount and the distribution of variation matters, because it determines the possibilities availabel for natural selection to act upon
-+ this influences the evolutionary pathways available to species and ultimately the evolution of all traits and adaptations
-+ as such, traits that influience mating or mating strategies are thought to have profound evolutionary consequences
++ well, traits that influience mating or mating strategies are thought to have profound evolutionary consequences
++ sex influences the amount and the distribution of variation among organisms, determining the possibilities available for natural selection to act upon
++ this influences the evolutionary pathways available to species and ultimately the evolution of all other traits
 + many higher eukaryotes segregate sexes into seperate male and female organisms, or rely on a host of behavioral adaptations or even taboos to regulate mating pairs
 + but flowering plants are unique in these respects, with nearly 95% being hermaphroditic -- including both male and female parts -- and lacking in any kind of behavior
 + so they've developed a host of complex and sophisticated adaptations that govern mating
@@ -52,18 +52,24 @@
 + so i'm going to zoom in on core eudiocts here and focus specifically on these orders
 + some families in these orders are known to operate with an SI system that shares remarkable genetic and molecular similiarities, known as RNase-based self-incompatibility or RSI
 + these similarities -- and the distant relationships between these groups -- have led to the hypothesis that RSI is homologous and therefore ancestral to core eudicots
-+ fabaceae, here in fabales, has long been hypothesized to share this ancestral system, but this remains an open question
++ fabaceae, here in fabales, has long been hypothesized to share this ancestral system
 
 ## slide six
 
-+ there are a good many reasons to think that fabaceae may indeed utilize this system
-+ for starters, 
-
-+ INTRODUCE SOME CORRELATED TRAITS AND MEANINGS
++ there are a good many reasons to think that fabaceae may indeed utilize this system as SI in Fabaceae has been shown to share a great many phenotypic features of RSI
++ for starters, the genotype that determines the rejection in RSI is the pollen -- that is, the rejection is gametophytic, which is true in all investigated Fabaceae species
++ RSI is generally characterized by wet styles and binucleate pollen, also found in most Fabaceae species
++ the presence of RSI in the closely-related Rosaceae and the hypothesis that this system is ancestral to core eudicots added compelling data to this intial evidence
 
 ## slide seven
 
-+ SO WHAT WE DID WAS...
++ despite these long-standing questions about the mechanism or mechanisms responsible for SI in Fabaceae, data on breeding systems in the group has not been collected or summarized for forty years, since arroyo in 1981
++ in the intervening years, we've learned more about SI in general and RSI specifically, including evidence that SI is known to correlate with some other traits like longevity or growth habit
++ and also that the RSI mechanism generally breaks down when there is a polyploidization event -- meaning that there is an association between polyploidy and self-compatibility
++ RSI has also been historically challenging to diagnose, but recent advances
+
++ so to examine the current state of knowledge on the phylogenetic distribution and frequency of SI in fabaceae -- along with the overall weight of evidence that RSI may be operating in Fabaceae -- we collected data from 366 published empircal papers, theses, monographs, conservation reports and flora and field guides with a special emphasis on breeding systems and potentially correlated traits
++ we also collected stylar tissue of 
 
 ## slide eight
 
