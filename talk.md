@@ -5,7 +5,7 @@
 + Hi everyone, my name is Lucy and I'm a PhD candidate in evolutionary biology at the University of Illinois at Chicago
 + I'm excited to speak to you today about one of my dissertation chapters examining self-incompatibility -- genetic mechanisms that prevent self-fertilization -- in the fabaceae family
 
-## slide one
+## slide one: images of all the shit you describe
 
 + As nitrogen fixers the legumes play an indispensable ecological role, but this group is also deeply entangled with the rise of human civilization 
 + Fabaceae species comprised half of the Neolithic founder crops domesticated by the first farming communities in the early Holocene 10,000 years ago. 
@@ -34,7 +34,7 @@
 + so they've developed a host of complex and sophisticated adaptations that govern mating
 + and perhaps not surprisingly, flowering plants are one of the most diverse and widespread groups of organisms on the planet, and possess the most varied reproductive structures of any group of organisms on earth -- this is especially true in fabaceae
 
-## slide four
+## slide four: style and pollen from your shitty AI drawing
 
 + so here is my rudimentary cartoon of the basic male and female reproductive organs of the flower
 + and since most plants -- and nearly all fabaceae species -- are hermaphrodites, pollen can technically come from two places: self or not self
@@ -42,7 +42,7 @@
 + but many plants possess invisible genetic mechanisms that allow them to recognize and reject their own pollen, allowing them to control the genotype of pollen that is ultimately able to fertilize their ovules
 + this trait is known under the broad umbrella term of "homomorphic self-incompatibility" or SI and it's found in an estimated half or more of angiosperm species
 
-## slide five
+## slide five: phylogeny of orders from prelims
 
 + here is a phylogeny representing 56 orders of monocots and eudicots
 + and highlighted in red are orders in which there are documented cases of SI 
@@ -61,7 +61,7 @@
 + RSI is generally characterized by wet styles and binucleate pollen, also found in most Fabaceae species
 + and, the presence of RSI in the closely-related Rosaceae and the hypothesis that this system is ancestral to core eudicots also adds compelling data to this intial evidence
 
-## slide seven
+## slide seven: add more checkboxes to features of rsi versus si? / flow chart for method description
 
 + now, despite these long-standing questions about the mechanism responsible for SI in Fabaceae, data on breeding systems in the group has not been collected or summarized for forty years, since arroyo in 1981
 + the truth is, we're not entirely sure what's going on--
@@ -83,7 +83,7 @@
 + BASICALLY, SHOW AND REPEAT SPECIES LEVEL BS TREE
 + you can see that in general, there is still quite a bit of missing data
 
-## slide nine
+## slide nine: ISI calculation and ISI fig demo
 
 + so, how do we tell if a species is SI or not?
 + the best way of actually establishing this is through manual pollination experiments that allow for the calculation of the index of self-incompatibility or ISI
@@ -93,7 +93,7 @@
 + this bimodal pattern has been shown in families that possess RSI, other SI mechanisms or even where the SI mechanism is as yet unknown, including Asteraceae, Brassicaceae, Solanaceae, Cactaceae and Orchidaceae
 + so i guess not surprisingly, we also found the same bimodal expression of SI in Fabaceae with ISI data for 308 species across 95 genera
 
-## slide ten 
+## slide ten: this seems to be another slide about how to distinguish RSI -- need to be moved?
 
 + in addition to examining seven caesalpinoid species for the presence of RSI molecular makers, we also collected data to help assess what mechanism may responsible for SI in the group
 + historically, determining whether a species possesses RSI is an expensive and time-consuming process
@@ -110,7 +110,7 @@
 + SI response across _Trifolium_ is also varied: pollen tube arrest is noted on both the stigma and the style, and to the best of our knowledge, this genus includes some of the only reports of species that are both annual and SI
 + so despite the identification of a putative S-locus there is not a lot of evidence of a shared SI mechanism
 
-## slide eleven
+## slide eleven: use emojis for traits list correlation status small underneath
 
 + we also performed phylogenetically corrected generalized linear models to assess possible corelations between SI and three other binary traits: stem composition (herbaceous or woody), longevity (annual or perennial) and ploidy (diploid or polyploid)
 + this analysis should be interpreted with caution: given that there is no clear shared SI mechanism, we don't know whether or not SI constitutes a single trait or more than one trait
