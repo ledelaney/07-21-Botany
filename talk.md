@@ -3,7 +3,7 @@
 ## title slide
 
 + Hi everyone, my name is Lucy and I'm a PhD candidate in evolutionary biology at the University of Illinois at Chicago
-+ I'm excited to speak to you today about one of my dissertation chapters examining self-incompatibility -- genetic mechanisms that prevent self-fertilization -- in the fabaceae family
++ I'm excited to speak to you today about on of my favorite families of flowering plants, the beans, and some of my favorite flowering plant traits, genetic mechanisms that prevent self-fertilization or self-incompatibility
 
 ## slide one: images of all the shit you describe
 
