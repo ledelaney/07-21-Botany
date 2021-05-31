@@ -3,7 +3,7 @@
 ## title slide
 
 + Hi everyone, my name is Lucy and I'm a PhD candidate in evolutionary biology at the University of Illinois at Chicago
-+ I'm excited to speak to you today about on of my favorite families of flowering plants, the beans, and some of my favorite flowering plant traits, genetic mechanisms that prevent self-fertilization or self-incompatibility
++ I'm excited to speak to you today about on of my favorite families of flowering plants, the beans, and some of my favorite flowering plant traits -- a suite of genetic mechanisms that allow a plant to reject its own pollen, known as self-incompatibility or SI
 
 ## slide one: images of all the shit you describe
 
@@ -27,7 +27,7 @@
 ## slide three: shit ton of fabaceae flowers?
 
 + well, traits that influience mating or mating strategies are thought to have profound evolutionary consequences
-+ sex influences the amount and the distribution of variation among organisms, determining the possibilities available for natural selection to act upon
++ these traits influence the amount and the distribution of genetic variation among organisms, which determines the possibilities available for natural selection to act upon
 + this influences the evolutionary pathways available to species and ultimately the evolution of all other traits
 + many higher eukaryotes segregate sexes into seperate male and female organisms, or rely on a host of behavioral adaptations or even taboos to regulate mating pairs
 + but flowering plants are unique in these respects, with nearly 95% being hermaphroditic -- including both male and female parts -- and obviously lacking in any kind of behavior
@@ -68,9 +68,16 @@
 + in the intervening years, we've learned more about SI in general and RSI specifically
 + more evidence has accummulated demonstrating the SI correlates with other traits like stem composition and longevity
 + and we also know now that the RSI mechanism generally breaks down when there is a polyploidization event -- meaning that there is an association between polyploidy and self-compatibility, or the ability to self-fertilize
-+ RSI has been historically challenging to confirm, but recent work takes advantage of distinctive molecular markers present in the stylar tissue of species that possess this system --> allowing for a fast and cheap way to identify RSI species
++ RSI has been historically challenging to confirm, requiring LIST OF SHIT IT REQUIRES
 + so to examine the current state of knowledge on the phylogenetic distribution and frequency of SI in fabaceae -- along with the overall weight of evidence that RSI may be operating in the group -- we collected data from 366 published works, including empircal papers, theses, monographs, conservation reports and flora and field guides with a special emphasis on breeding systems and potentially correlated traits
-+ we also tested stylar tissue of several species in a previously untested subfamily -- Caesalpinioideae -- for the presence of RSI molecular markers
++ we ALSO COLLECTED DATA ON CROSSING EXPERIMENTS GENETICS AND SUCH
+
+## slide ten: this seems to be another slide about how to distinguish RSI -- need to be moved?
+
++ TRANSITION INTO DATA COLLECTED ON DISTINGUISHING RSI
++ since the pollen tube is known to break down in the style (as opposed to the stigma or beyond the style), site of pollen tube inhibition is one indicator of SI mechanism
++ detailed crossing experiments can establish patterns of inheritance among individuals ***
++ lastly the identification of an S-locus can definitively establish RSI, the location of the coding regions for the male and female molecular components responsible for the function of SI
 
 ## slide eight: genus- and species-level phylogenies
 
@@ -79,7 +86,7 @@
 + this is a genus-level phylogeny of fabaceae, with circles scaled to represent the relative size of each genus -- you can see _Astragalus_ right here...
 + and these colors indicate the percent of each genus for which we have breeding system data -- but this scale is a bit skewed here, so we have very limited data, even for the genera where we know something
 + we do find the highest proportion of SI species in the oldest and woodiest subfamilies, and, as arroyo originally notes, a trend toward increasing herbaceousness and self-compatibility in papilionoideae
-+ there are some exceptions with SI reports from _Trifolium_***
++ there are some exceptions with SI reports from _Trifolium_ ***
 + BASICALLY, SHOW AND REPEAT SPECIES LEVEL BS TREE
 + you can see that in general, there is still quite a bit of missing data
 
@@ -88,18 +95,10 @@
 + so, how do we tell if a species is SI or not?
 + the best way of actually establishing this is through manual pollination experiments that allow for the calculation of the index of self-incompatibility or ISI
 + ISI is 1- the ratio of selfed/outcrossed fruits produced, where 1 means a plant is full SI and zero fully SC
-+ in previous families, the expression of SI has been shown to be bimodal, with the majority of species being fully SI or SC
++ in previous families, the expression of SI has been shown to be bimodal, with the majority of species being fully SI or SC (THAT IS, 0 OR ONE)
 + this fits in line with theoretical expectations indicating that these are alternative stable states
 + this bimodal pattern has been shown in families that possess RSI, other SI mechanisms or even where the SI mechanism is as yet unknown, including Asteraceae, Brassicaceae, Solanaceae, Cactaceae and Orchidaceae
 + so i guess not surprisingly, we also found the same bimodal expression of SI in Fabaceae with ISI data for 308 species across 95 genera
-
-## slide ten: this seems to be another slide about how to distinguish RSI -- need to be moved?
-
-+ in addition to examining seven caesalpinoid species for the presence of RSI molecular makers, we also collected data to help assess what mechanism may responsible for SI in the group
-+ historically, determining whether a species possesses RSI is an expensive and time-consuming process
-+ since the pollen tube is known to break down in the style (as opposed to the stigma or beyond the style), site of pollen tube inhibition is one indicator of SI mechanism
-+ detailed crossing experiments can establish patterns of inheritance among individuals ***
-+ lastly the identification of an S-locus can definitively establish RSI, the location of the coding regions for the male and female molecular components responsible for the function of SI
 
 ### another slide?
 
@@ -118,12 +117,7 @@
 + that said, in our best performing models we find evidence of correlation between SI and perennial habit, but no evidence of correlation between SI and ploidy
 + a lack of correlation would suggest that RSI is not operating in these species, as this mechanism is known to break down in polyploids
 
-## slide twelve
-
-+ Aguiar looked for the genes of RSI molecular markers expressed in the style in several Papilionoid species
-+ given the varied phenotypic expression of SI in this subfamily, along with the recent work that suggests a whole genome duplication occurring in the common ancestor of papilinoids, it's unlikely that RSI is operating in this group
-+ however in the older caesalpinoid lineage, there are some diploid species that do exhibit some features similar to RSI like pollen tube arrest in the style 
-+ we examined seven of these species for the presence of characteristic molecular markers in stylar tissue but we did not find them
+## ANOTHER SLIDE?
 
 ## conclusion
 
