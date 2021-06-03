@@ -1,6 +1,6 @@
 ---
 title: "The Phylogenetic Distribution and Frequency of Self-Incompatibility in the Legumes"
-author: "Lucy Delaney, Karolis Ramanauskas, and Boris Igić"
+author: "Lucy Delaney and Boris Igić"
 institute: "University of Illinois at Chicago"
 date: "`r Sys.Date()`"
 output:
@@ -32,7 +32,7 @@ meta() %>%
     image_alt = paste(
       "Title slide of The Phylogenetic Distribution and Frequency of Self-Incompatibility in the Legumes", 
       "Talk presented at the annual meeting of the Botanical Society of America, 2021", 
-      "by Lucy Delaney, Karolis Ramanauskas, and Boris Igić"
+      "by Lucy Delaney and Boris Igić"
     ),
     og_type = "website",
     og_author = "Lucy Delaney",
