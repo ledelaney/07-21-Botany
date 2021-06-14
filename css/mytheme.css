@@ -520,6 +520,7 @@ hr {
   right: 1em;
   font-size: 65%;
   line-height: 1.3em;
+  font-size: 85%;
 }
 
 .footnote-right {
@@ -529,6 +530,7 @@ hr {
   font-size: 65%;
   line-height: 1.3em;
   width: 15%;
+  font-size: 85%;
 }
 
 /*-- Slide number --*/
