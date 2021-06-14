@@ -248,7 +248,7 @@ line-height: normal;
   background-color: #F6F4F3;
 }
 
-.bg_colutea::before {    
+/* .bg_colutea::before {    
       content: "";
       background-image: url('images/bg/colutea.jpg');
       background-size: 500px;
@@ -261,7 +261,7 @@ line-height: normal;
       left: 700px;
       opacity: 1;
       z-index: -1;
-}
+} */
 
 /* slide six */
 
@@ -509,21 +509,20 @@ hr {
 /*-- BOTTOM-OF-SLIDE PROPERTIES --*/
 
 /*-- Footnote --*/
-.footnote-light {
+.footnote-left {
   position: absolute;
   bottom: 0.2em;
-  left: 1em;
+  right: 1em;
   font-size: 65%;
   line-height: 1.3em;
 }
 
-.footnote-dark {
+.footnote-right {
   position: absolute;
   bottom: 0.2em;
   left: 2em;
   font-size: 65%;
   line-height: 1.3em;
-  color: #FFFFFF;
   width: 15%;
 }
 
