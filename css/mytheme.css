@@ -222,7 +222,7 @@ line-height: normal;
 .bg_tamarind {
   position: relative;
   z-index: 1;
-  background-color: #E8E3D2;
+  background-color: #ece4d5;
 }
 
 .bg_tamarind::before {    
@@ -268,7 +268,7 @@ line-height: normal;
 .bg_pea {
   position: relative;
   z-index: 1;
-  background-color: #EEEBE3;
+  background-color: #eae8de;
 }
 
 .bg_pea::before {    
