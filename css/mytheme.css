@@ -123,6 +123,18 @@ line-height: normal;
 
 /*-- BACKGROUNDS AND SPECIFIC SLIDE STYLING --*/
 
+.tree-left{
+  position: absolute;
+  right: 3rem;
+  top: .5rem;
+}
+
+.tree-up {
+  position: absolute;
+  top: 0.5rem;
+  right: 1.1rem;
+}
+
 /* title slide */
 
 .bg_mimosa {
