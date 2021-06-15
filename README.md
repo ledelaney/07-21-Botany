@@ -19,7 +19,6 @@ Slide set-up with the `xaringan` (built on `remark.js`)and `metathis` R packages
 
 + [Large–Flowering Sensitive Plant from The Temple of Flora (1807) by Robert John Thornton](https://www.rawpixel.com/image/1199345/botanical-artwork-robert-john-thornton)
 + [Blooming wisteria (1900 - 1930) by Ohara Koson](https://www.rawpixel.com/image/436657/free-illustration-image-japanese-japan-flower)
-+ [Tri flower (_Trillium sessile_) illustration from Les liliacées (1805) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/501837/free-illustration-image-flower-trillium-pierre-joseph-redoute)
 + [St John's Bread (_Ceratonia siliqua_ L.) (1907) by Deborah Griscom Passmore](https://www.rawpixel.com/image/2286914/free-illustration-image-legumes-vintage-vintage-food)
 + [Tamarind (_Tamarindus indica_) illustration from Medical Botany (1836) by John Stephenson](https://www.rawpixel.com/image/327219/free-illustration-image-watercolor-flower-botanical-1800s)
 + [Bladder-senna (_Colutea arborescens_) from Traité des Arbres et Arbustes que l’on cultive en France en pleine terre (1801–1819) by Pierre-Joseph Redouté](https://www.rawpixel.com/image/568398/senna-plant)
