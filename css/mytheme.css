@@ -92,6 +92,26 @@ line-height: normal;
 
 /* TITLE SLIDE STYLE */
 
+.bg_mimosa {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_mimosa::before {    
+      content: "";
+      background-image: url('images/bg/mimosa.jpg');
+      background-size: 550px;
+      background-repeat: no-repeat;
+      background-color: #F5F5F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
 .title-slide h2 {
   position: absolute;
   top: 90px;
@@ -120,42 +140,14 @@ line-height: normal;
   left: -3px;
 }
 
-
 /*-- BACKGROUNDS AND SPECIFIC SLIDE STYLING --*/
 
-.tree-left{
-  position: absolute;
-  right: 3rem;
-  top: .5rem;
-}
-
-.tree-up {
-  position: absolute;
-  top: 0.5rem;
-  right: 1.1rem;
-}
-
-/* title slide */
-
-.bg_mimosa {
+.bg_blank {
   position: relative;
   z-index: 1;
+  background-color: #F6F4F3;
 }
 
-.bg_mimosa::before {    
-      content: "";
-      background-image: url('images/bg/mimosa.jpg');
-      background-size: 550px;
-      background-repeat: no-repeat;
-      background-color: #F5F5F3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
 
 /* slide one */
 
@@ -188,25 +180,16 @@ line-height: normal;
 
 /* slide two */
 
-.bg_trifolium {
-  position: relative;
-  z-index: 1;
-  background-color: #F8F8F6;
+.tree-left{
+  position: absolute;
+  right: 3rem;
+  top: .5rem;
 }
 
-.bg_trifolium::before {    
-      content: "";
-      background-image: url('images/bg/trifolium.jpg');
-      background-size: 500px;
-      background-repeat: no-repeat;
-      background-color: #F8F8F6;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 720px;
-      opacity: 1;
-      z-index: -1;
+.tree-up {
+  position: absolute;
+  top: 0.5rem;
+  right: 1.1rem;
 }
 
 
@@ -258,32 +241,7 @@ line-height: normal;
 
 /* slide five */
 
-.bg_blank {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F4F3;
-}
 
-.bg_colutea {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F4F3;
-}
-
-.bg_colutea::before {    
-      content: "";
-      background-image: url('images/bg/colutea.jpg');
-      background-size: 500px;
-      background-repeat: no-repeat;
-      background-color: #F6F4F3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 700px;
-      opacity: 1;
-      z-index: -1;
-}
 
 /* slide six */
 
@@ -310,6 +268,53 @@ line-height: normal;
 
 /* slide seven */
 
+.bg_clitoria {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F4F3;
+}
+
+.bg_clitoria::before {    
+      content: "";
+      background-image: url('images/bg/clitoria.jpg');
+      background-size: 490px;
+      background-repeat: no-repeat;
+      background-color: #F6F4F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 720px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+/* slide eight */
+
+.bg_colutea {
+  position: relative;
+  z-index: 1;
+  background-color: #F6F4F3;
+}
+
+.bg_colutea::before {    
+      content: "";
+      background-image: url('images/bg/colutea.jpg');
+      background-size: 500px;
+      background-repeat: no-repeat;
+      background-color: #F6F4F3;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 700px;
+      opacity: 1;
+      z-index: -1;
+}
+
+/* slide nine */
+
 .bg_dolichos {
   position: relative;
   z-index: 1;
@@ -332,74 +337,7 @@ line-height: normal;
 }
 
 
-/* slide eight */
-
-.bg_mimosa2 {
-  position: relative;
-  z-index: 1;
-  background-color: #F4F4F2;
-}
-
-.bg_mimosa2::before {    
-      content: "";
-      background-image: url('images/bg/mimosa2.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F4F4F2;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
-
-/* slide nine */
-
-.bg_clitoria {
-  position: relative;
-  z-index: 1;
-  background-color: #F6F4F3;
-}
-
-.bg_clitoria::before {    
-      content: "";
-      background-image: url('images/bg/clitoria.jpg');
-      background-size: 490px;
-      background-repeat: no-repeat;
-      background-color: #F6F4F3;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 720px;
-      opacity: 1;
-      z-index: -1;
-}
-
 /* slide ten */
-
-.bg_locust {
-  position: relative;
-  z-index: 1;
-  background-color: #F5F4F2;
-}
-
-.bg_locust::before {    
-      content: "";
-      background-image: url('images/bg/locust.jpg');
-      background-size: contain;
-      background-repeat: no-repeat;
-      background-color: #F5F4F2;
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      bottom: 0px;
-      left: 0px;
-      opacity: 1;
-      z-index: -1;
-}
 
 
 /* slide eleven */
@@ -424,6 +362,8 @@ line-height: normal;
       opacity: 1;
       z-index: -1;
 }
+
+
 
 /* slide twelve */
 
@@ -472,6 +412,52 @@ line-height: normal;
       z-index: -1;
       border:none;
 }
+
+/* unused backgrounds */
+
+.bg_locust {
+  position: relative;
+  z-index: 1;
+  background-color: #F5F4F2;
+}
+
+.bg_locust::before {    
+      content: "";
+      background-image: url('images/bg/locust.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F5F4F2;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
+
+.bg_mimosa2 {
+  position: relative;
+  z-index: 1;
+  background-color: #F4F4F2;
+}
+
+.bg_mimosa2::before {    
+      content: "";
+      background-image: url('images/bg/mimosa2.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-color: #F4F4F2;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 1;
+      z-index: -1;
+}
+
 
 
 /*-- LINK STYLING --*/
@@ -538,7 +524,7 @@ hr {
   right: 1em;
   font-size: 65%;
   line-height: 1.3em;
-  font-size: 85%;
+  font-size: 65%;
 }
 
 .footnote-right {
@@ -548,7 +534,7 @@ hr {
   font-size: 65%;
   line-height: 1.3em;
   width: 15%;
-  font-size: 85%;
+  font-size: 65%;
 }
 
 /*-- Slide number --*/
