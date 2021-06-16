@@ -15,7 +15,7 @@ Our collection reveals greater complexity of SI expression in the family than pr
 
 ## Slides
 
-Slide set-up with the `xaringan` (built on `remark.js`)and `metathis` R packages. Actual slides and `css` coded by hand.
+Slide set-up with the `xaringan` (built on `remark.js`)and `metathis` R packages. Actual slides and `css` coded by hand. See `references.pdf` for slide citations.
 
 ### Images
 
