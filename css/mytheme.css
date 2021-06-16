@@ -525,7 +525,7 @@ hr {
   right: 1em;
   font-size: 65%;
   line-height: 1.3em;
-  font-size: 65%;
+  font-size: 50%;
 }
 
 .footnote-right {
@@ -534,8 +534,26 @@ hr {
   left: 2em;
   font-size: 65%;
   line-height: 1.3em;
-  width: 15%;
+  /* width: 15%; */
+  font-size: 50%;
+}
+
+.footnote-up {
+  position: absolute;
+  bottom: 3.5rem;
+  right: 1em;
   font-size: 65%;
+  line-height: 1.3em;
+  font-size: 50%;
+}
+
+.footnote-lil-up {
+  position: absolute;
+  bottom: 1.7rem;
+  right: 1em;
+  font-size: 65%;
+  line-height: 1.3em;
+  font-size: 50%;
 }
 
 /*-- Slide number --*/
@@ -651,7 +669,7 @@ blockquote {
 .blue       { color:   #005EB8 }
 .green      { color:   #009639 }
 .pink       { color:   #AE2573 }
-.red        { color:   #DA291C }
+.red        { color:   #9e2020 }
 .warmyellow { color:   #FFB81C }
 .gold       { color:   #b0a402;}
 .opaque		{ opacity: 0}
