@@ -1,8 +1,10 @@
-# Botany Conference, 2021
+# Annual Meeting of the Botanical Society, 2021
 
 ![](css/images/07-21-botany-card.png)
 
 [LINK TO FULL SLIDE DECK](https://ledelaney.org/talks/2021botany)
+
+_Associated paper currently in review with the International Journal of Plant Sciences_
 
 ## Abstract
 
