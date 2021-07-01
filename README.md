@@ -2,7 +2,9 @@
 
 ![](css/images/07-21-botany-card.png)
 
-[LINK TO FULL SLIDE DECK](https://ledelaney.org/talks/2021botany)
+📹 [View Recording](https://uofi.box.com/v/2021botany-talk)
+
+🎞️ [View Slide Deck](https://ledelaney.org/talks/2021botany)
 
 _Associated paper currently in review with the International Journal of Plant Sciences_
 
